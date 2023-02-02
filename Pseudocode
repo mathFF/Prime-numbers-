@@ -1,9 +1,9 @@
-norm=(Prime=A-(A intersection C))
-(A, B)=(1~inf)
-C=(A*B)
-U<-(A intersertion C)
-U=sin(x*pi/n)=0
-x=(2~inf)
+NORM = (Prime=A-(A intersection C))
+(A, B) = (1~inf)
+C = (A*B)
+U <-(A intersertion C)
+U = sin(x*pi/n)=0
+x = (2~inf)
 n>x
 U is composites
 SUM (norm)
