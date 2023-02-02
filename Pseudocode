@@ -3,8 +3,8 @@ NORM = (Prime = A-(A intersection C))
 C = (A*B)
 U <-(A intersertion C)
 U = sin(x*pi/n)=0
-x = (2~inf)
-n<x
+x > n
+Lim(x) -> n^2
 U is composite
 SUM (norm)
 return Prime
