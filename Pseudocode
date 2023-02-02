@@ -5,7 +5,7 @@ U <-(A intersertion C)
 U = sin(x*pi/n)=0
 x = (2~inf)
 n>x
-U is composites
+U is composite
 SUM (norm)
 return Prime
 STOP
