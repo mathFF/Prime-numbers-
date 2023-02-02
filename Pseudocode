@@ -4,7 +4,7 @@ C = (A*B)
 U <-(A intersertion C)
 U = sin(x*pi/n)=0
 x = (2~inf)
-n>x
+n<x
 U is composite
 SUM (norm)
 return Prime
