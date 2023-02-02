@@ -1,4 +1,4 @@
-NORM = (Prime=A-(A intersection C))
+NORM = (Prime = A-(A intersection C))
 (A, B) = (1~inf)
 C = (A*B)
 U <-(A intersertion C)
